@@ -1,0 +1,9 @@
+.menu table td{
+   padding-inline-start:30px;
+   background: chocolate;
+}
+
+.menu table td p{
+    color: aqua;
+    align-items: center;
+}
